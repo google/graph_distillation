@@ -28,7 +28,13 @@ All code was developed and tested on Ubuntu 16.04 with Python 3.6 and PyTorch 0.
 
 
 ## Pretrained Models
-We can download pretrained models used in our paper from:
+We can download pretrained models used in our paper running the script:
+
+```
+sh download_models.sh
+```
+
+Or alternatively you can
 
 1. Install Google Cloud SDK (https://cloud.google.com/sdk/install)
 2. Copy the pretrained model using the following commands:
