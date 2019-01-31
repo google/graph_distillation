@@ -3,10 +3,10 @@
 <img src="images/pull.png" width="1000px"/>
 
 This is the code for the paper
-**Graph Distillation for Action Detection with Privileged Modalities**
+**[Graph Distillation for Action Detection with Privileged Modalities](https://arxiv.org/abs/1712.00108)**
 presented at [ECCV 2018](https://eccv2018.org/)
 
-Please note that this is not an officially supported Google product.
+*Please note that this is not an officially supported Google product.*
 
 In this work, we propose a method termed **graph distillation** that incorporates rich privileged information from a large-scale multi- modal dataset in the source domain, and improves the learning in the target domain where training data and modalities are scarce.
 
